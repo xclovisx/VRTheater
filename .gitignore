@@ -1,6 +1,11 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# nietnodigedingen
+Content/Megascans/*
+Content/StarterContent/*
+Content/Underwater/*
+
 # Compiled Object files
 *.slo
 *.lo
