@@ -32,11 +32,11 @@
 			]
 		},
 		{
-			"Name": "HoudiniEngine",
+			"Name": "NaniteDisplacedMesh",
 			"Enabled": true
 		},
 		{
-			"Name": "NaniteDisplacedMesh",
+			"Name": "HoudiniEngine",
 			"Enabled": true
 		}
 	],
