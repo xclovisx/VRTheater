@@ -45,7 +45,6 @@
 		}
 	],
 	"TargetPlatforms": [
-		"Android",
 		"PS4",
 		"PS5",
 		"Windows",
